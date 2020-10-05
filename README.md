@@ -29,7 +29,7 @@ A passionate self-taught Full stack developer from India.:earth_asia:
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Wolverine3650&show_icons=true)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Wolverine3650)](https://github.com/Wolverine3650/github-readme-stats)
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact" />
