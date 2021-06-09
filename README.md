@@ -3,10 +3,10 @@
 
 A passionate self-taught Full stack developer from India.:earth_asia:
 
-- 🔭 I’m currently Exploring MERN Stack and Django !
+- 🔭 I’m currently Exploring Spring Framework!
 - 🤖 I'm curious about Robotic process automation and ⚙️ Python automation.
 - 🌱 I’m currently Improving my Programming skills.
-- 👯 I’m looking to collaborate on Full Stack Web Development !
+- 👯 I’m looking to collaborate on Full Stack Development!
 - 💬 Ask me about anything [here](https://github.com/issues)
 <br />
 
