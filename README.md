@@ -28,11 +28,10 @@ A passionate self-taught Full stack developer from India.:earth_asia:
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wolverine3650&show_icons=true&theme=gotham" alt="Wolverine3650" />
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=Wolverine3650)](https://github.com/Wolverine3650/github-readme-stats)
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact" />
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wolverine3650&layout=compact&theme=gotham" />
 
 <br />
 
